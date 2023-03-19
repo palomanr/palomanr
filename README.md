@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paloma Núñez</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
+<img align="right" alt="coding" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palomanr&label=Profile%20views&color=0e75b6&style=flat" alt="palomanr" /> </p>
 
