@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palomanr&label=Profile%20views&color=0e75b6&style=flat" alt="palomanr" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palomanr" alt="palomanr" /></a> </p>
+
 - 🔭 I’m currently working on **Computer science internship, 3rd year student**
 
 - 📝 I regularly write articles on [https://momatech.blogspot.com/](https://momatech.blogspot.com/)
